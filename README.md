@@ -10,5 +10,14 @@ learning dsa in java.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamya1157/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
