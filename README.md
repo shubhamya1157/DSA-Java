@@ -11,12 +11,14 @@ learning dsa in java.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shubhamya1157/DSA-Java/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamya1157/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamya1157/DSA-Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shubhamya1157/DSA-Java/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
