@@ -13,7 +13,7 @@ class Node{
 public class ProductOfNodes{
 
      //Finding product of nodes using Recursion
-     private static long int product(Node root){
+     private static long product(Node root){
 
         return (root == null) ? 1 : (root.val*product(root.left)*product(root.right));
      }
