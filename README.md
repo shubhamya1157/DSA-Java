@@ -5,6 +5,7 @@ learning dsa in java.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shubhamya1157/DSA-Java/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shubhamya1157/DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhamya1157/DSA-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhamya1157/DSA-Java/tree/master/0237-delete-node-in-a-linked-list) |
