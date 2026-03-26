@@ -52,4 +52,20 @@ learning dsa in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubhamya1157/DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamya1157/DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamya1157/DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamya1157/DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamya1157/DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
