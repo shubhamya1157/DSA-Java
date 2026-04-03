@@ -30,6 +30,7 @@ learning dsa in java.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/shubhamya1157/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamya1157/DSA-Java/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/shubhamya1157/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ learning dsa in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubhamya1157/DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/shubhamya1157/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,12 @@ learning dsa in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/shubhamya1157/DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/shubhamya1157/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/shubhamya1157/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
